@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/json.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaelzhang/neuro-json.git"
+  },
+  "keywords": [
+    "json", "neuron"
+  ],
+  "author": "kael",
+  "license": "BSD",
+  "gitHead": "10a7e25845f06b9ec567a223c4f75f6ead3efd4e",
+  "readmeFilename": "README.md"
+}
