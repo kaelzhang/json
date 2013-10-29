@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kaelzhang/neuro-json.git"
+    "url": "git://github.com/kaelzhang/json.git"
   },
   "bugs": {
-    "url": "https://github.com/kaelzhang/neuro-json/issues"
+    "url": "https://github.com/kaelzhang/json/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/kaelzhang/neuro-json/blob/master/LICENSE-MIT"
+      "url": "https://github.com/kaelzhang/json/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
