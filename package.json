@@ -23,7 +23,7 @@
     "node": ">= 0.6.0"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "make test"
   },
   "keywords": [],
   "main": "index.js"
